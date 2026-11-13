@@ -1416,12 +1416,21 @@ with st.expander("Data check: what was retrieved for each player"):
 # =====================================================================
 st.markdown(
     "<div class='disclaimer'>"
-    "Built with assistance from Gemini Pro, Claude and ChatGPT Go, combining "
-    "engineering experience with cricket analytics and data-driven evaluation.<br><br>"
-    "<b>This is an independent, unofficial project.</b> This dashboard is not affiliated with, "
-    "endorsed by, or operated by Rajasthan Royals. It does not contain official, "
-    "confidential, internal or secret team data. Analysis is based on publicly "
-    "available cricket data and the methodology described in this explorer."
+    "Built by <b>Mihir Madkaikar</b> with assistance from "
+    "Gemini Pro, Claude and ChatGPT Go, combining engineering and data analysis "
+    "experience with cricket analytics and data-driven evaluation.<br><br>"
+    "<b>This is an independent, unofficial, educational project</b>"
+    "created for SupeRR Selector Season 2. It is not affiliated with, endorsed by, or operated "
+    "by Rajasthan Royals or any other team, league or organisation. It does not "
+    "contain official, confidential, internal or secret team data. Analysis is "
+    "based on publicly available cricket data and the methodology described in "
+    "this explorer.<br><br>"
+    "All images, logos, player photos, team names and trademarks shown here belong "
+    "to their respective copyright owners. I do not own or claim any rights to them. "
+    "They appear for educational and illustrative purposes only. If any rights holder "
+    "would like content credited differently or removed, please contact me.<br><br>"
+    "This project is not monetized in any way and was built purely for learning "
+    "and competition purposes."
     "</div>",
     unsafe_allow_html=True,
 )
