@@ -1420,7 +1420,7 @@ with st.expander("Data check: what was retrieved for each player"):
 st.markdown(
     "<div class='disclaimer'>"
     "<div style='font-size:1.25rem; font-weight:700; line-height:1.5;'>"
-    "Built by Mihir Madkaikar (Mihirmadkaikar) with assistance from "
+    "Built by Mihir Madkaikar with assistance from "
     "Gemini Pro, Claude and ChatGPT Go, combining engineering and data analysis "
     "experience with cricket analytics and data-driven evaluation."
     "</div><br>"
