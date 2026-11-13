@@ -1417,13 +1417,21 @@ with st.expander("Data check: what was retrieved for each player"):
 # =====================================================
 # 9. FOOTER / DISCLAIMER
 # =====================================================
+# =====================================================
+# 9. FOOTER / DISCLAIMER
+# =====================================================
 st.markdown(
     "<div class='disclaimer'>"
-    "<div style='font-size:1.25rem; font-weight:700; line-height:1.5;'>"
-    "Built by Mihir Madkaikar with assistance from "
-    "Gemini Pro, Claude and ChatGPT Go, combining engineering and data analysis "
-    "experience with cricket analytics and data-driven evaluation."
-    "</div><br>"
+    "<div style='text-align:center; line-height:1.4; margin-bottom:1rem;'>"
+    "<div style='font-size:1.1rem;'>Built by</div>"
+    "<div style='font-size:2.2rem; font-weight:700; color:#E91E8C;'>"
+    "Mihir Madkaikar</div>"
+    "<div style='font-size:1.1rem;'>"
+    "with assistance from Gemini Pro, Claude and ChatGPT Go, combining "
+    "engineering and data analysis experience with cricket analytics and "
+    "data-driven evaluation."
+    "</div>"
+    "</div>"
     "This is an independent, unofficial, educational project created for "
     "SupeRR Selector Season 2. It is not affiliated with, endorsed by, or operated "
     "by Rajasthan Royals or any other team, league or organisation. It does not "
