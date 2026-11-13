@@ -1,0 +1,26 @@
+# Ignore all data files
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Keep data folder structure but ignore contents
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code specific
+.vscode/
